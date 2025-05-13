@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<!-- <body onclick="location.href='gameScreen.html'"> -->
+<div class="loginPage">
+
+    <div class="buttons">
+        <a href="#login" class="btn">Login</a>
+        <a href="#register" class="btn">Register</a>
+    </div>
+
+    <!-- Formulario de Login -->
+    <div id="login" class="form-container">
+        <h2>LOGIN</h2>
+        <form>
+            <label for="login-email">Correo:</label>
+            <input type="email" id="login-email" required>
+
+            <label for="login-password">Contraseña:</label>
+            <input type="password" id="login-password" required>
+
+            <input type="submit" value="Iniciar sesión" class="submit-btn">
+        </form>
+    </div>
+
+    <!-- Formulario de Registro -->
+    <div id="register" class="form-container">
+        <h2>REGISTRO</h2>
+        <form>
+            <label for="reg-email">Correo:</label>
+            <input type="email" id="reg-email" required>
+
+            <label for="reg-password">Contraseña:</label>
+            <input type="password" id="reg-password" required>
+
+            <label for="reg-confirm">Confirmar contraseña:</label>
+            <input type="password" id="reg-confirm" required>
+
+            <input type="submit" value="Registrarse" class="submit-btn">
+        </form>
+    </div>
+    </body>
+
+</html>
