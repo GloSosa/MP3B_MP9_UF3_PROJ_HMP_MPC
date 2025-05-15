@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jTLW7rLpnts=",
+  "dgSpecHash": "YvLdIrp+xNU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\micha\\Documents\\TenguiNoTengui\\TenguiNoTengui.csproj",
+  "projectFilePath": "C:\\Users\\micha\\Documents\\MP3B_MP9_UF3_PROJ_HMP_MPC\\TenguiNoTengui\\TenguiNoTengui.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micha\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

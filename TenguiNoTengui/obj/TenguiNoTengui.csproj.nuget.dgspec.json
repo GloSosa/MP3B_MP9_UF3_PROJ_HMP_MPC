@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\Documents\\TenguiNoTengui\\TenguiNoTengui.csproj": {}
+    "C:\\Users\\micha\\Documents\\MP3B_MP9_UF3_PROJ_HMP_MPC\\TenguiNoTengui\\TenguiNoTengui.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\Documents\\TenguiNoTengui\\TenguiNoTengui.csproj": {
+    "C:\\Users\\micha\\Documents\\MP3B_MP9_UF3_PROJ_HMP_MPC\\TenguiNoTengui\\TenguiNoTengui.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\Documents\\TenguiNoTengui\\TenguiNoTengui.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\Documents\\MP3B_MP9_UF3_PROJ_HMP_MPC\\TenguiNoTengui\\TenguiNoTengui.csproj",
         "projectName": "TenguiNoTengui",
-        "projectPath": "C:\\Users\\micha\\Documents\\TenguiNoTengui\\TenguiNoTengui.csproj",
+        "projectPath": "C:\\Users\\micha\\Documents\\MP3B_MP9_UF3_PROJ_HMP_MPC\\TenguiNoTengui\\TenguiNoTengui.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\Documents\\TenguiNoTengui\\obj\\",
+        "outputPath": "C:\\Users\\micha\\Documents\\MP3B_MP9_UF3_PROJ_HMP_MPC\\TenguiNoTengui\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config"
