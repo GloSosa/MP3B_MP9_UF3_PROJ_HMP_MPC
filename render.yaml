@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: tengui-no-tengui
+    env: docker
+    plan: free
+    rootDir: TenguiNoTengui
+    buildCommand: "dotnet build"
+    startCommand: "dotnet run --urls http://0.0.0.0:10000"
+    envVars:
+      - key: ASPNETCORE_URLS
+        value: http://0.0.0.0:10000
