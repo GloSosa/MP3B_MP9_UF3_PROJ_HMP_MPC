@@ -1,7 +1,7 @@
 services:
   - type: web
     name: tengui-no-tengui
-    env: linux
+    runtime: node
     plan: free
     rootDir: TenguiNoTengui
     buildCommand: "dotnet build"
