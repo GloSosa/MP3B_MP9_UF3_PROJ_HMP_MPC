@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenguiNoTengui", "TenguiNoTengui.csproj", "{6B02B13C-0980-9A5B-280D-BC2C4316E41E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B02B13C-0980-9A5B-280D-BC2C4316E41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B02B13C-0980-9A5B-280D-BC2C4316E41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B02B13C-0980-9A5B-280D-BC2C4316E41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B02B13C-0980-9A5B-280D-BC2C4316E41E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96CE3866-E14A-498A-BCF2-1C9C88FB7992}
+	EndGlobalSection
+EndGlobal

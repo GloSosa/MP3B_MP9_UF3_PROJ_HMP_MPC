@@ -1,0 +1,22 @@
+@{
+    ViewData["Title"] = "Mis Cartas";
+}
+
+<h2>Mis Cartas</h2>
+<div id="mis-cartas" style="display: flex; flex-wrap: wrap; gap: 10px;"></div>
+
+<script>
+    fetch('/Card/MyCards')
+        .then(res => res.json())
+        .then(cards => {
+            cards.forEach(async card => {
+                const res = await fetch(`/Card/GetCard/${card.cardId}`);
+                const data = await res.json();
+                const img = document.createElement('img');
+                img.src = data.images.small;
+                img.style.width = "120px";
+                img.style.height = "auto";
+                document.getElementById('mis-cartas').appendChild(img);
+            });
+        });
+</script>
