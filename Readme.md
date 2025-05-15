@@ -52,16 +52,6 @@ TenguiNoTengui/
 └── README.md
 
 
-## Producción
-
-El proyecto puede desplegarse en cualquier hosting ASP.NET con soporte para SQLite. Se puede usar:
-
-- [Render.com](https://render.com/)
-- [myASP.net](https://www.myasp.net/)
-- [Railway.app](https://railway.app/)
-
----
-
 ## Mejoras futuras
 
 - Autenticación real de usuarios
